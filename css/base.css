@@ -1,9 +1,25 @@
 *{margin:0 auto;}
+
+.phone { 
+	width:100%;
+	height:40px;
+	background-color:#dedede;
+}
+.user {
+	width: 970px;
+	height: 40px;
+	text-align: right;
+	line-height: 49px;
+	font-weight: 800; 
+	background-image: url(../img/phone.png);
+	background-repeat: no-repeat;
+	background-position: 760px center;
+}
 .header {
 	
 	width: 970px;
-	height: 103px
-	}
+	height: 63px
+}
 	
 .logo {
 	width: 277px;
@@ -13,23 +29,14 @@
 	background-repeat: no-repeat;
 	background-position: 20px 50px;
 }
-.user {
-	width: 337px;
-	height: 49px;
-	float: right;
-	text-align: right;
-	line-height: 49px;
-	font-weight: 800;  
-	background-image: url(img/phone.png);
-	background-repeat: no-repeat;
-	background-position: 126px center;
-}
+
 .nav {
 	width: 679px;
-	height: 44px;
+	height: 43px;
 	margin-top: 8px;
 	float: right;
 	position: relative;
+	margin-top:60px;
 }
 
 .nav ul {
@@ -60,13 +67,14 @@
 	padding-bottom:50px;
 }
 .footer {
-	width:1200px;
 	height:80px;
 	background-color:#eaeaea;
 	text-align:center;
 	font-size:12px;
 	padding: 40px 0;
 	line-height:20px;
+	width:100%;
+	border: 1px solid #b4b4b4;
 }
 .footer a {
 	color:#000;
