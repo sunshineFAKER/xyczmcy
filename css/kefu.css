@@ -1,0 +1,124 @@
+.main {
+	width:912px;
+	height:756px;
+	
+}
+.main_l {
+	width:212px;
+	height:756px;
+	float:left;
+}
+.main_r {
+	width:700px;
+	height:756px;
+	float:left;
+}
+
+.line_l {
+	width:64px;
+	float:left;
+	border-bottom: 2px solid #FF680B;
+}
+.line_r {
+	width:148px;
+	float:left;
+	border-bottom:2px solid #9C9C9C;
+}
+.d1 {
+	width:212px;
+	height:75px;
+	margin-top:20px;
+}
+.d1 p {
+	line-height:38px;
+	color:#333;
+	font-size:12px;
+}
+.d2 {
+	width:212px;
+	height:110px;
+	border-top:1px dashed #999999;
+	padding:10px 0 10px 0;
+}
+.d2 p {
+	line-height:40px;
+	font-size:12px;
+}
+.d2 h4 {
+	font-size:14px;
+	height:40px;
+	line-height:40px;
+}
+.d2 img {
+	width:27px;
+	float:left;
+}
+.d3 img {
+	width:22px;
+	height:20px;
+}
+.main_r h2 {
+	text-align:center;
+}
+.main_r>p {
+	text-align:center;
+}
+.d3 {
+	width:700px;
+	height:60px;
+}
+.d3_l {
+	width:60px;
+	height:60px;
+	float:left;
+}
+.d3_r {
+	width:610px;
+	height:60px;
+	float:left;
+}
+.d3 a {
+	color:#000;
+}
+.d4 {
+	width:652px;
+	height:580px;
+	padding-right:59px;
+	border-top:1px dashed #999999;
+	font-size:12px;
+	line-height:20px;
+
+}
+.d4_p {
+	margin-bottom:42px;
+}
+.p1 {
+	margin-top:8px;
+}
+.a2 { 
+	width:48px;
+	height:25px;
+	bottom:18px:
+	border:1px solid #dbeaef;
+	line-height:25px;
+	text-align:center;
+	float:left;
+	padding-right:10px;
+}
+.a3 { 
+	width:48px;
+	height:25px;
+	bottom:18px:
+	border:1px solid #dbeaef;
+	line-height:25px;
+	text-align:center;
+	float:left;
+	padding-left:10px;
+}
+.a1 {
+	color:#666;
+}
+.dd {
+	width:186px;
+	height:54px;
+}

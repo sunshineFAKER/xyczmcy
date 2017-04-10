@@ -1,0 +1,56 @@
+.nav .line {
+	width: 60px;
+	height: 2px;
+	background-color: #000;
+	position: absolute;
+	top: 30px;
+	left: 215px;
+}
+.main {
+	width:970px;
+	height:1600px;
+	margin: 0 auto;
+}
+.main h5 {
+	height:20px;
+	padding-left:12px;
+	font-size:12px;
+	line-height:20px;
+}
+.main_r {
+	width:875px;
+	border-bottom: 3px solid #ADADAD;
+	float:left;
+}
+.main_l {
+	width:85px;
+	float:left;
+	border-bottom: 3px solid #000;
+}
+.main_d {
+	width:970px;
+	height:1620px;
+	padding:12px 0 0 13px;
+}
+.main_d div {
+	width:175px;
+	height:155px;
+	margin-right:15px;
+	float:left;
+	text-align:center;
+}
+.main_d div a {
+	color:#666666;
+	text-decoration:none;
+	font-size:12px;
+	line-height:40px;
+}
+.page { 
+	width:200px;
+	height:70px;
+	margin-bottom:20px;
+}
+.page-a {
+	line-height:70px;
+	text-align:center;
+}
